@@ -1,2 +1,4 @@
 # EQUIPO-DISEÑO-V1-Forecast-
-En este trabajo, se realizará un problema de regresión lineal en donde obtendremos el resultado, la gráfica dada en R y la ayuda de Shiny y aquí almacenaremos el código solicitado. 
+En este proyecto, realizaremos en equipo un problema acerca del tema de Regresión Lineal, en donde se basarán en un modelo donde represente un modelo estadístico de un problema visto en clase. Esta aplicación utilizará Shiny, el cual es muy funcional a la hora de realizar un análisis interactivo entre el modelo que se realizará. 
+El usuario podrá cargar un archivo CSV o dataset para declarar las variable dependiente (Y) y la variable independiente (X), y de ahí se obtendrá la ecuación del modelo, el resúmen estadístico, el gráfico de dispersión con línea de regresión y los gráficos de diagnóstico del modelo. 
+Utilizaremos librerías como Shiny y ggplot2 que son utiles para crear interfaces interactivas en R y genera gráficos de dispersión y líneas de regresión. 
